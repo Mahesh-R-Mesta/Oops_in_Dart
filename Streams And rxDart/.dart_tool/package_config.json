@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "rxdart",
+      "rootUri": "file:///C:/Users/sweet/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rxdart-0.26.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "my_rxDartDemo",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-04-28T10:53:04.553710Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.0"
+}
